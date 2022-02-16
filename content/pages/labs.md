@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Labs
+ocw_type: CourseSection
 title: Labs
 uid: 77f96179-fe15-c37e-d905-4776f8ba1da5
 ---
@@ -26,17 +29,17 @@ Section 1: Atmospheric Photochemistry and Air Pollution
 *   [Wind Direction Time Series (JPG)]({{< baseurl >}}/resources/mit12_335f14_wind_directio)
 *   [Wind Speed Time Series (JPG)]({{< baseurl >}}/resources/mit12_335f14_wind_speed)
 *   [Ozone Time Series (JPG)]({{< baseurl >}}/resources/mit12_335f14_ozone_series)
-*   [NOx Time Series (JPG)]({{< baseurl >}}/resources/mit12_335f14_nox_time)
+*   [NO{{< sub "x" >}} Time Series (JPG)]({{< baseurl >}}/resources/mit12_335f14_nox_time)
 *   [Ozone Data (TXT)](./resolveuid/26a366d4d30af0c9952f1ee7927e2478)
-*   [NOx Data (TXT)](./resolveuid/d9dc311019a94b3bfc978302d0822664)
+*   [NO{{< sub "x" >}} Data (TXT)](./resolveuid/d9dc311019a94b3bfc978302d0822664)
 *   [October 1 Data (ZIP)]({{< baseurl >}}/resources/mit12_335f14_roof_measurements_oct_1) (This file contains: 1 .csv file and 5 .txt files)
 *   [October 3 Data (ZIP)]({{< baseurl >}}/resources/mit12_335f14_oct_3_data) (This file contains: 1 .csv file and 4 .txt files)
 *   [October 6 Data (ZIP)]({{< baseurl >}}/resources/mit12_335f14_october_6_data) (This file contains: 1 .csv file and 4 .txt files)
-*   [Corrected NOx Timestamp (TXT)](./resolveuid/f02045ca1d95da10269955c255d9d2d2)
+*   [Corrected NO{{< sub "x" >}} Timestamp (TXT)](./resolveuid/f02045ca1d95da10269955c255d9d2d2)
 
-### MATLAB® Codes
+### MATLAB{{< sup "®" >}} Codes
 
-You need the following MATLAB® codes for plotting time series.
+You need the following MATLAB{{< sup "®" >}} codes for plotting time series.
 
 *   [co\_import (M)]({{< baseurl >}}/resources/mit12_335f14_co_import)
 *   [download\_weather\_data (M)]({{< baseurl >}}/resources/mit12_335f14_download_weather_data)
@@ -48,8 +51,8 @@ You need the following MATLAB® codes for plotting time series.
 *   [pm\_import (M)]({{< baseurl >}}/resources/mit12_335f14_pm_import)
 *   [uv\_import (M)]({{< baseurl >}}/resources/mit12_335f14_uv_import)
 
-Section 2: CO2 and Climate Change
----------------------------------
+Section 2: CO{{< sub "2" >}} and Climate Change
+-----------------------------------------------
 
 ### Section 2 Labs
 
@@ -58,11 +61,11 @@ Section 2: CO2 and Climate Change
 ### Data and Supporting Files
 
 *   [FTIR Data Collected in Class (ZIP)]({{< baseurl >}}/resources/mit12_335f14_ftir_data) (This file contains: 5 .csv files)
-*   [Sample MATLAB® File to Calculate CO2 Cross Section (ZIP)]({{< baseurl >}}/resources/mit12_335f14_co2_crosssection) (This file contains: 2 .csv files and 1 .m file)
+*   [Sample MATLAB{{< sup "®" >}} File to Calculate CO{{< sub "2" >}} Cross Section (ZIP)]({{< baseurl >}}/resources/mit12_335f14_co2_crosssection) (This file contains: 2 .csv files and 1 .m file)
 *   [All FTIR Code in One (ZIP - 1.8MB)]({{< baseurl >}}/resources/mit12_335f14_consolidated_ftir_code) (This file contains: 3 .m files and 1 .mat file)
 *   [Box Model Explanation (PDF)]({{< baseurl >}}/resources/mit12_335f14_box_model)
 *   [Box Model Code (M)]({{< baseurl >}}/resources/mit12_335f14_box_model_code)
-*   [CO2 Data (ZIP)]({{< baseurl >}}/resources/mit12_335f14_co2_data)
+*   [CO{{< sub "2" >}} Data (ZIP)]({{< baseurl >}}/resources/mit12_335f14_co2_data)
 
 Section 3: Aerosol and Clouds
 -----------------------------

@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: 761dbccc-25c4-633b-7e1c-c3b8087d2597
 ---
@@ -55,7 +57,7 @@ Atmospheric Photochemistry and Air Pollution I
 3
 {{< tdclose >}}
 {{< tdopen >}}
-MATLAB® Overview
+MATLAB{{< sup "®" >}} Overview
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -164,7 +166,7 @@ Atmospheric Photochemistry and Air Pollution Presentations
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="3" >}}
-**Section 2: CO2 and Climate Change**
+**Section 2: CO{{< sub "2" >}} and Climate Change**
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -173,7 +175,7 @@ Atmospheric Photochemistry and Air Pollution Presentations
 12
 {{< tdclose >}}
 {{< tdopen >}}
-CO2 and Climate Change I
+CO{{< sub "2" >}} and Climate Change I
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -185,7 +187,7 @@ CO2 and Climate Change I
 13
 {{< tdclose >}}
 {{< tdopen >}}
-First CO2 and Climate Change Lab
+First CO{{< sub "2" >}} and Climate Change Lab
 {{< tdclose >}}
 {{< tdopen >}}
 Atmospheric Photochemistry and Air Pollution Report Due
@@ -197,7 +199,7 @@ Atmospheric Photochemistry and Air Pollution Report Due
 14
 {{< tdclose >}}
 {{< tdopen >}}
-CO2 and Climate Change II
+CO{{< sub "2" >}} and Climate Change II
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -209,7 +211,7 @@ CO2 and Climate Change II
 15
 {{< tdclose >}}
 {{< tdopen >}}
-Secend CO2 and Climate Change Lab
+Secend CO{{< sub "2" >}} and Climate Change Lab
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -221,7 +223,7 @@ Secend CO2 and Climate Change Lab
 16
 {{< tdclose >}}
 {{< tdopen >}}
-CO2 and Climate Change III
+CO{{< sub "2" >}} and Climate Change III
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -233,7 +235,7 @@ CO2 and Climate Change III
 17
 {{< tdclose >}}
 {{< tdopen >}}
-Third CO2 and Climate Change Lab
+Third CO{{< sub "2" >}} and Climate Change Lab
 {{< tdclose >}}
 {{< tdopen >}}
  
@@ -245,7 +247,7 @@ Third CO2 and Climate Change Lab
 18
 {{< tdclose >}}
 {{< tdopen >}}
-CO2 and Climate Change Presentations
+CO{{< sub "2" >}} and Climate Change Presentations
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -275,7 +277,7 @@ Aerosol and Clouds I
 First Aerosol and Clouds Lab
 {{< tdclose >}}
 {{< tdopen >}}
-CO2 and Climate Change Report Due
+CO{{< sub "2" >}} and Climate Change Report Due
 {{< tdclose >}}
 
 {{< trclose >}}

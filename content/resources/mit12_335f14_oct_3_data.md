@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This is the special file regarding Oct 3 data.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-335-experimental-atmospheric-chemistry-fall-2014/1623aadaac703efd8ac7b12b1f64f450_MIT12_335F14_Oct_3_data.zip
+file: /media/courses/12-335-experimental-atmospheric-chemistry-fall-2014/1623aadaac703efd8ac7b12b1f64f450_MIT12_335F14_Oct_3_data.zip
 file_type: application/zip
+learning_resource_types:
+- Labs
+ocw_type: OCWFile
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Other
 title: MIT12_335F14_Oct_3_data.zip
 uid: 1623aada-ac70-3efd-8ac7-b12b1f64f450

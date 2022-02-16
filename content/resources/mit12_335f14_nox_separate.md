@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This is the special file regarding nox separate.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-335-experimental-atmospheric-chemistry-fall-2014/f7f4053e763a24dbefa6d82c482b06cc_MIT12_335F14_nox_separate.m
+file: /media/courses/12-335-experimental-atmospheric-chemistry-fall-2014/f7f4053e763a24dbefa6d82c482b06cc_MIT12_335F14_nox_separate.m
 file_type: text/x-objcsrc
+learning_resource_types:
+- Labs
+ocw_type: OCWFile
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Other
 title: MIT12_335F14_nox_separate.m
 uid: f7f4053e-763a-24db-efa6-d82c482b06cc

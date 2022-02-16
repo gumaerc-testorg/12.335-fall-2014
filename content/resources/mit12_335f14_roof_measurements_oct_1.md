@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This is the special file regarding Roof measurements Oct 1.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-335-experimental-atmospheric-chemistry-fall-2014/13b4310945cea134cbd3229d002c772d_MIT12_335F14_Roof_measurements_Oct_1.zip
+file: /media/courses/12-335-experimental-atmospheric-chemistry-fall-2014/13b4310945cea134cbd3229d002c772d_MIT12_335F14_Roof_measurements_Oct_1.zip
 file_type: application/zip
+learning_resource_types:
+- Labs
+ocw_type: OCWFile
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Other
 title: MIT12_335F14_Roof_measurements_Oct_1.zip
 uid: 13b43109-45ce-a134-cbd3-229d002c772d

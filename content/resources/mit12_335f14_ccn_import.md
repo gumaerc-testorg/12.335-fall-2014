@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This is the special file regarding CCN import.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/12-335-experimental-atmospheric-chemistry-fall-2014/30f6f231e1bd1dc6f46dff032896f296_MIT12_335F14_CCN_import.zip
+file: /media/courses/12-335-experimental-atmospheric-chemistry-fall-2014/30f6f231e1bd1dc6f46dff032896f296_MIT12_335F14_CCN_import.zip
 file_type: application/zip
+learning_resource_types:
+- Labs
+ocw_type: OCWFile
+parent_title: Labs
+parent_type: CourseSection
 resourcetype: Other
 title: MIT12_335F14_CCN_import.zip
 uid: 30f6f231-e1bd-1dc6-f46d-ff032896f296

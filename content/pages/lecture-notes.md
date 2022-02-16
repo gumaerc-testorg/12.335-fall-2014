@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 73791826-c3e0-8a4c-74d8-3832382d2d92
 ---
@@ -46,7 +49,7 @@ TOPICS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-MATLAB® Overview ([M]({{< baseurl >}}/resources/test-1)) ([CSV]({{< baseurl >}}/resources/test))
+MATLAB{{< sup "®" >}} Overview ([M]({{< baseurl >}}/resources/test-1)) ([CSV]({{< baseurl >}}/resources/test))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -121,7 +124,7 @@ Atmospheric Photochemistry and Air Pollution Presentations (No Lecture Notes)
 {{< trclose >}}
 {{< tropen >}}
 {{< tdopen colspan="2" >}}
-**Section 2: CO2 and Climate Change**
+**Section 2: CO{{< sub "2" >}} and Climate Change**
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -130,7 +133,7 @@ Atmospheric Photochemistry and Air Pollution Presentations (No Lecture Notes)
 12–17
 {{< tdclose >}}
 {{< tdopen >}}
-[CO2 and Climate Change (PDF - 4.2MB)]({{< baseurl >}}/resources/mit12_335f14_lecture2)
+[CO{{< sub "2" >}} and Climate Change (PDF - 4.2MB)]({{< baseurl >}}/resources/mit12_335f14_lecture2)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -139,7 +142,7 @@ Atmospheric Photochemistry and Air Pollution Presentations (No Lecture Notes)
 18
 {{< tdclose >}}
 {{< tdopen >}}
-CO2 and Climate Change Presentations (No Lecture Notes)
+CO{{< sub "2" >}} and Climate Change Presentations (No Lecture Notes)
 {{< tdclose >}}
 
 {{< trclose >}}
