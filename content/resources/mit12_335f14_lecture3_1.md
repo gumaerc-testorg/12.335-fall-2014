@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 73791826-c3e0-8a4c-74d8-3832382d2d92
 resourcetype: Document
 title: Aerosol and Clouds I
 uid: 90dfa337-0df9-6bb3-6c91-d050c5d34c75

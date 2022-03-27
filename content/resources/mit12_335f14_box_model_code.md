@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 77f96179-fe15-c37e-d905-4776f8ba1da5
 resourcetype: Other
 title: MIT12_335F14_Box_model_code.m
 uid: 1ceaa65e-5cca-5d0b-a7ce-d0d107a10f5a

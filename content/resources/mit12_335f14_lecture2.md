@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 73791826-c3e0-8a4c-74d8-3832382d2d92
 resourcetype: Document
 title: CO2 and Climate Change
 uid: 86ef763f-c983-630c-0995-705b1ad5c546

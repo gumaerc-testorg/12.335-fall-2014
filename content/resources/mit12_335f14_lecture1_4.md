@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 73791826-c3e0-8a4c-74d8-3832382d2d92
 resourcetype: Document
 title: Atmospheric Photochemistry and Air Pollution IV
 uid: 353c4c20-6327-7fbb-17fc-a1efb97d748e

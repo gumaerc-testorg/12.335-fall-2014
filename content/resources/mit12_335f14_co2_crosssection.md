@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 77f96179-fe15-c37e-d905-4776f8ba1da5
 resourcetype: Other
 title: MIT12_335F14_CO2_CrossSection.zip
 uid: a783ed9b-bd7b-f40f-0286-714c5492cd93

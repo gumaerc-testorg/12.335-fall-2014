@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: dc8a3bf1-3010-be3e-536a-bad8492e16cd
 resourcetype: Document
 title: Brief tutorial of HYSPLIT web version
 uid: d0fe517f-d044-8a11-5ac0-6c4ba11f6704

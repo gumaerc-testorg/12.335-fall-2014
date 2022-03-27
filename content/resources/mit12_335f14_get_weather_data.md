@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 77f96179-fe15-c37e-d905-4776f8ba1da5
 resourcetype: Other
 title: MIT12_335F14_get_weather_data.m
 uid: 62efae6e-c54c-fbb9-7157-8a5bc1db0ed7

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
+parent_uid: 77f96179-fe15-c37e-d905-4776f8ba1da5
 resourcetype: Document
 title: Lab1-Report-Guidelines
 uid: 32df8aa4-c957-811a-eb8b-e03a1e1d775e

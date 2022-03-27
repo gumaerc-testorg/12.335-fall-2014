@@ -19,9 +19,9 @@ Section 1: Atmospheric Photochemistry and Air Pollution
 ### Data and Supporting Files
 
 *   [CO Measurements (CSV)]({{< baseurl >}}/resources/mit12_335f14_co_measurements)
-*   [PM10 Measurements (TXT)](./resolveuid/810df4fbb538e598592a27a612b55313)
-*   [PM1.0 Measurements (TXT)](./resolveuid/7934ad3c78dcc01c6a262527bcd26de3)
-*   [PM2.5 Measurements (TXT)](./resolveuid/4808e1befdbec0c4a25b665fdedbd9aa)
+*   [PM10 Measurements (TXT)]({{< baseurl >}}/resources/mit12_335f14_pm10_measurements)
+*   [PM1.0 Measurements (TXT)]({{< baseurl >}}/resources/mit12_335f14_pm1-0_measurements)
+*   [PM2.5 Measurements (TXT)]({{< baseurl >}}/resources/mit12_335f14_pm2-5_measurements)
 *   [CO Example Time Series (JPG)]({{< baseurl >}}/resources/mit12_335f14_co_series)
 *   [PM Example Time Series (JPG)]({{< baseurl >}}/resources/mit12_335f14_pm_series)
 *   [Weather Data (CSV)]({{< baseurl >}}/resources/mit12_335f14_meteo)
@@ -30,12 +30,12 @@ Section 1: Atmospheric Photochemistry and Air Pollution
 *   [Wind Speed Time Series (JPG)]({{< baseurl >}}/resources/mit12_335f14_wind_speed)
 *   [Ozone Time Series (JPG)]({{< baseurl >}}/resources/mit12_335f14_ozone_series)
 *   [NO{{< sub "x" >}} Time Series (JPG)]({{< baseurl >}}/resources/mit12_335f14_nox_time)
-*   [Ozone Data (TXT)](./resolveuid/26a366d4d30af0c9952f1ee7927e2478)
-*   [NO{{< sub "x" >}} Data (TXT)](./resolveuid/d9dc311019a94b3bfc978302d0822664)
+*   [Ozone Data (TXT)]({{< baseurl >}}/resources/mit12_335f14_ozone)
+*   [NO{{< sub "x" >}} Data (TXT)]({{< baseurl >}}/resources/mit12_335f14_nox)
 *   [October 1 Data (ZIP)]({{< baseurl >}}/resources/mit12_335f14_roof_measurements_oct_1) (This file contains: 1 .csv file and 5 .txt files)
 *   [October 3 Data (ZIP)]({{< baseurl >}}/resources/mit12_335f14_oct_3_data) (This file contains: 1 .csv file and 4 .txt files)
 *   [October 6 Data (ZIP)]({{< baseurl >}}/resources/mit12_335f14_october_6_data) (This file contains: 1 .csv file and 4 .txt files)
-*   [Corrected NO{{< sub "x" >}} Timestamp (TXT)](./resolveuid/f02045ca1d95da10269955c255d9d2d2)
+*   [Corrected NO{{< sub "x" >}} Timestamp (TXT)]({{< baseurl >}}/resources/mit12_335f14_correctednox)
 
 ### MATLAB{{< sup "®" >}} Codes
 
