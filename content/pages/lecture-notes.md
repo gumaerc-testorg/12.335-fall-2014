@@ -1,12 +1,15 @@
 ---
 content_type: page
+description: This section provides the schedule of course topics and the lecture notes
+  for selected sessions.
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
 title: Lecture Notes
 uid: 73791826-c3e0-8a4c-74d8-3832382d2d92
+video_metadata:
+  youtube_id: null
 ---
-
 {{< tableopen >}}
 {{< theadopen >}}
 {{< tropen >}}
@@ -25,7 +28,7 @@ TOPICS
 1
 {{< tdclose >}}
 {{< tdopen >}}
-[Course Introduction (PDF - 2.1MB)]({{< baseurl >}}/resources/mit12_335f14_lecture_intro)
+{{% resource_link eb3ce029-0318-f9f1-9fea-87fd00319462 "Course Introduction (PDF - 2.1MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +43,7 @@ TOPICS
 2
 {{< tdclose >}}
 {{< tdopen >}}
-[Atmospheric Photochemistry and Air Pollution I (PDF - 1.7MB)]({{< baseurl >}}/resources/mit12_335f14_lecture1_1)
+{{% resource_link 795b0231-d0b3-d12f-0fba-8dd8173937c6 "Atmospheric Photochemistry and Air Pollution I (PDF - 1.7MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,7 +52,7 @@ TOPICS
 3
 {{< tdclose >}}
 {{< tdopen >}}
-MATLAB{{< sup "®" >}} Overview ([M]({{< baseurl >}}/resources/test-1)) ([CSV]({{< baseurl >}}/resources/test))
+MATLAB{{< sup "®" >}} Overview ({{% resource_link ac9ebe76-93a1-cae3-f4a1-b859f2bef6e2 "M" %}}) ({{% resource_link f73733af-5c32-5eac-7988-451ad5b48030 "CSV" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -67,7 +70,7 @@ First Photochemistry Lab (No Lecture Notes)
 5
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Atmospheric Photochemistry and Air Pollution II (PDF - 1.3MB)]({{< baseurl >}}/resources/mit12_335f14_lecture1_2)
+{{% resource_link 722fe3f8-156f-550f-9cd4-ca109c1c41e3 "Atmospheric Photochemistry and Air Pollution II (PDF - 1.3MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -78,9 +81,9 @@ First Photochemistry Lab (No Lecture Notes)
 {{< tdopen >}}
 
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Atmospheric Photochemistry and Air Pollution III (PDF - 1.7MB)]({{< baseurl >}}/resources/mit12_335f14_lecture1_3)
+{{% resource_link 3592232b-ddf3-3519-6657-91cd1a768617 "Atmospheric Photochemistry and Air Pollution III (PDF - 1.7MB)" %}}
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Building 54 Data Review (PDF)]({{< baseurl >}}/resources/mit12_335f14_lect1_3supp)
+{{% resource_link c95e621c-bca2-8c2f-30d1-c78aeea02f4b "Building 54 Data Review (PDF)" %}}
 
 
 {{< tdclose >}}
@@ -109,7 +112,7 @@ Second Photochemistry Lab (No Lecture Notes)
 9–10
 {{< tdclose >}}
 {{< tdopen >}}
-[Atmospheric Photochemistry and Air Pollution IV (PDF - 1.3MB)]({{< baseurl >}}/resources/mit12_335f14_lecture1_4)
+{{% resource_link 353c4c20-6327-7fbb-17fc-a1efb97d748e "Atmospheric Photochemistry and Air Pollution IV (PDF - 1.3MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -133,7 +136,7 @@ Atmospheric Photochemistry and Air Pollution Presentations (No Lecture Notes)
 12–17
 {{< tdclose >}}
 {{< tdopen >}}
-[CO{{< sub "2" >}} and Climate Change (PDF - 4.2MB)]({{< baseurl >}}/resources/mit12_335f14_lecture2)
+{{% resource_link 86ef763f-c983-630c-0995-705b1ad5c546 "CO{{< sub \"2\" >}} and Climate Change (PDF - 4.2MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -157,7 +160,7 @@ CO{{< sub "2" >}} and Climate Change Presentations (No Lecture Notes)
 19–20
 {{< tdclose >}}
 {{< tdopen >}}
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Aerosol and Clouds I (PDF - 2.8MB)]({{< baseurl >}}/resources/mit12_335f14_lecture3_1)
+{{% resource_link 90dfa337-0df9-6bb3-6c91-d050c5d34c75 "Aerosol and Clouds I (PDF - 2.8MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -166,7 +169,7 @@ CO{{< sub "2" >}} and Climate Change Presentations (No Lecture Notes)
 21–22
 {{< tdclose >}}
 {{< tdopen >}}
-[Aerosol and Clouds II (PDF - 2.3MB)]({{< baseurl >}}/resources/mit12_335f14_lecture3_2)
+{{% resource_link 376aae5d-06c3-664f-c856-d98e3d287ccb "Aerosol and Clouds II (PDF - 2.3MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -175,7 +178,7 @@ CO{{< sub "2" >}} and Climate Change Presentations (No Lecture Notes)
 23–24
 {{< tdclose >}}
 {{< tdopen >}}
-[Aerosol and Clouds III (PDF - 3.0MB)]({{< baseurl >}}/resources/mit12_335f14_lecture3_3)
+{{% resource_link c2bfab32-bd89-2bc3-4c32-0a70d9a8b9f5 "Aerosol and Clouds III (PDF - 3.0MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -184,7 +187,7 @@ CO{{< sub "2" >}} and Climate Change Presentations (No Lecture Notes)
 25
 {{< tdclose >}}
 {{< tdopen >}}
-[Aerosol and Clouds IV (PDF - 2.9MB)]({{< baseurl >}}/resources/mit12_335f14_lecture3_4)
+{{% resource_link 5dd86b93-a98f-6530-b873-94f46fc6c6cc "Aerosol and Clouds IV (PDF - 2.9MB)" %}}
 {{< tdclose >}}
 
 {{< trclose >}}

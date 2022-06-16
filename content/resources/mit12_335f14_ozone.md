@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is the special file regarding Ozone.
-file: /media/courses/12-335-experimental-atmospheric-chemistry-fall-2014/26a366d4d30af0c9952f1ee7927e2478_MIT12_335F14_Ozone.txt
+file: /courses/12-335-experimental-atmospheric-chemistry-fall-2014/26a366d4d30af0c9952f1ee7927e2478_MIT12_335F14_Ozone.txt
 file_type: text/plain
 learning_resource_types:
 - Labs
@@ -13,3 +13,5 @@ resourcetype: Other
 title: MIT12_335F14_Ozone.txt
 uid: 26a366d4-d30a-f0c9-952f-1ee7927e2478
 ---
+This is the special file regarding Ozone.
+

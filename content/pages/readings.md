@@ -1,16 +1,20 @@
 ---
 content_type: page
+description: This section provides the list of readings assigned for each section
+  of the course.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
 title: Readings
 uid: dc8a3bf1-3010-be3e-536a-bad8492e16cd
+video_metadata:
+  youtube_id: null
 ---
 
 **Section 1: Atmospheric Photochemistry and Air Pollution**
 
-*   ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["A Complete Modeling System for Simulating Dispersion of Harmful Atmospheric Material." (PDF - 1.6MB)](http://www.arl.noaa.gov/documents/Summaries/Dispersion_HYSPLIT.pdf) Air Resources Laboratory (Web-based HYSPLIT Application for Emergency Response).
-*   [Brief Tutorial of HYSPLIT Web Version (PDF)]({{< baseurl >}}/resources/mit12_335f14_hysplit)
+*   ["A Complete Modeling System for Simulating Dispersion of Harmful Atmospheric Material." (PDF - 1.6MB)](http://www.arl.noaa.gov/documents/Summaries/Dispersion_HYSPLIT.pdf) Air Resources Laboratory (Web-based HYSPLIT Application for Emergency Response).
+*   {{% resource_link d0fe517f-d044-8a11-5ac0-6c4ba11f6704 "Brief Tutorial of HYSPLIT Web Version (PDF)" %}}
 
 **Section 2: CO{{< sub "2" >}} and Climate Change**
 

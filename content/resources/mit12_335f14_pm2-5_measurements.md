@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is the special file regarding PM2.5 measurements.
-file: /media/courses/12-335-experimental-atmospheric-chemistry-fall-2014/4808e1befdbec0c4a25b665fdedbd9aa_MIT12_335F14_PM2.5_measurements.txt
+file: /courses/12-335-experimental-atmospheric-chemistry-fall-2014/4808e1befdbec0c4a25b665fdedbd9aa_MIT12_335F14_PM2.5_measurements.txt
 file_type: text/plain
 learning_resource_types:
 - Labs
@@ -13,3 +13,5 @@ resourcetype: Other
 title: MIT12_335F14_PM2.5_measurements.txt
 uid: 4808e1be-fdbe-c0c4-a25b-665fdedbd9aa
 ---
+This is the special file regarding PM2.5 measurements.
+

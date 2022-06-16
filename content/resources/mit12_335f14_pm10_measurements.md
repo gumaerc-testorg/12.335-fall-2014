@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is the special file regarding PM10 measurements.
-file: /media/courses/12-335-experimental-atmospheric-chemistry-fall-2014/810df4fbb538e598592a27a612b55313_MIT12_335F14_PM10_measurements.txt
+file: /courses/12-335-experimental-atmospheric-chemistry-fall-2014/810df4fbb538e598592a27a612b55313_MIT12_335F14_PM10_measurements.txt
 file_type: text/plain
 learning_resource_types:
 - Labs
@@ -13,3 +13,5 @@ resourcetype: Other
 title: MIT12_335F14_PM10_measurements.txt
 uid: 810df4fb-b538-e598-592a-27a612b55313
 ---
+This is the special file regarding PM10 measurements.
+
