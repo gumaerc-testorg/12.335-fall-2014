@@ -5,6 +5,7 @@ file: /courses/12-335-experimental-atmospheric-chemistry-fall-2014/7934ad3c78dcc
 file_type: text/plain
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT12_335F14_PM1.0_measurements.txt
 uid: 7934ad3c-78dc-c01c-6a26-2527bcd26de3
 ---
 This is the special file regarding PM1.0 measurements.
-

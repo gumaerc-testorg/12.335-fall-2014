@@ -5,6 +5,7 @@ file: /courses/12-335-experimental-atmospheric-chemistry-fall-2014/921798c994bf2
 file_type: application/pdf
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -16,4 +17,3 @@ video_metadata:
   youtube_id: null
 ---
 This file contains information regarding lab 3 report guidelines.
-

@@ -5,6 +5,7 @@ file: /courses/12-335-experimental-atmospheric-chemistry-fall-2014/26a366d4d30af
 file_type: text/plain
 learning_resource_types:
 - Labs
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: MIT12_335F14_Ozone.txt
 uid: 26a366d4-d30a-f0c9-952f-1ee7927e2478
 ---
 This is the special file regarding Ozone.
-
