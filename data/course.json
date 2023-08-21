@@ -2,7 +2,8 @@
   "term": "Fall",
   "year": "2014",
   "level": [
-    "Undergraduate"
+    "Undergraduate",
+    "Graduate"
   ],
   "topics": [
     [
@@ -43,6 +44,7 @@
     "Lecture Notes",
     "Activity Assignments"
   ],
-  "site_uid": "4b4498ee-fe7c-4b4b-b500-4803e4a19472",
+  "site_uid": "e3115b17-cdff-4c5c-8cde-e20fb5f4868c",
+  "short_id": "12.335-fall-2014",
   "title": "Course Metadata"
 }
