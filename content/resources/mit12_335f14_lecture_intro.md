@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Course Introduction.
 file: /courses/12-335-experimental-atmospheric-chemistry-fall-2014/eb3ce0290318f9f19fea87fd00319462_MIT12_335F14_Lecture_intro.pdf
+file_size: 2180174
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains information related to PM series.
 file: /courses/12-335-experimental-atmospheric-chemistry-fall-2014/6e8f97e309cb8ada723acfe8458a71cb_MIT12_335F14_PM_series.jpg
+file_size: 35886
 file_type: image/jpeg
 image_metadata:
   caption: ''
