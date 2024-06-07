@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Aerosol and Clouds II.
 file: /courses/12-335-experimental-atmospheric-chemistry-fall-2014/376aae5d06c3664fc856d98e3d287ccb_MIT12_335F14_Lecture3_2.pdf
+file_size: 2396384
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
