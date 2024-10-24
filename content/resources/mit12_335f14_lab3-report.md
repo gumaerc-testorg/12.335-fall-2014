@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding lab 3 report guidelines.
-file: /courses/12-335-experimental-atmospheric-chemistry-fall-2014/921798c994bf2a863c51a7686d349121_MIT12_335F14_Lab3-Report.pdf
+file: /ol-ocw-studio-app/courses/12-335-experimental-atmospheric-chemistry-fall-2014/921798c994bf2a863c51a7686d349121_MIT12_335F14_Lab3-Report.pdf
 file_size: 133024
 file_type: application/pdf
 learning_resource_types:
