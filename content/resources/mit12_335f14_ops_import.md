@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is the special file regarding OPS import.
-file: /courses/12-335-experimental-atmospheric-chemistry-fall-2014/1efcd39837e440cec7d25ad219dff8b7_MIT12_335F14_OPS_import.zip
+file: /ol-ocw-studio-app/courses/12-335-experimental-atmospheric-chemistry-fall-2014/1efcd39837e440cec7d25ad219dff8b7_MIT12_335F14_OPS_import.zip
 file_size: 278227
 file_type: application/zip
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Atmospheric Photochemistry
   and Air Pollution 3 supp.
-file: /courses/12-335-experimental-atmospheric-chemistry-fall-2014/c95e621cbca28c2f30d1c78aeea02f4b_MIT12_335F14_Lect1_3supp.pdf
+file: /ol-ocw-studio-app/courses/12-335-experimental-atmospheric-chemistry-fall-2014/c95e621cbca28c2f30d1c78aeea02f4b_MIT12_335F14_Lect1_3supp.pdf
 file_size: 924628
 file_type: application/pdf
 learning_resource_types:
