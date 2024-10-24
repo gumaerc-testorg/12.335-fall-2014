@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is the special file regarding meteo.
-file: /courses/12-335-experimental-atmospheric-chemistry-fall-2014/b59788cde783548d5506009d67dd9ff3_MIT12_335F14_meteo.csv
+file: /ol-ocw-studio-app/courses/12-335-experimental-atmospheric-chemistry-fall-2014/b59788cde783548d5506009d67dd9ff3_MIT12_335F14_meteo.csv
 file_size: 50072
 file_type: text/comma-separated-values
 learning_resource_types:

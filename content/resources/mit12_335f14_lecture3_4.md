@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding Aerosol and Clouds IV.
-file: /courses/12-335-experimental-atmospheric-chemistry-fall-2014/5dd86b93a98f6530b87394f46fc6c6cc_MIT12_335F14_Lecture3_4.pdf
+file: /ol-ocw-studio-app/courses/12-335-experimental-atmospheric-chemistry-fall-2014/5dd86b93a98f6530b87394f46fc6c6cc_MIT12_335F14_Lecture3_4.pdf
 file_size: 2998394
 file_type: application/pdf
 learning_resource_types:

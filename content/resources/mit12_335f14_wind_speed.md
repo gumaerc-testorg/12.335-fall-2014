@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to wind speed.
-file: /courses/12-335-experimental-atmospheric-chemistry-fall-2014/b755d184d33310f773a28fa8a9a9f2fe_MIT12_335F14_Wind_speed.jpg
+file: /ol-ocw-studio-app/courses/12-335-experimental-atmospheric-chemistry-fall-2014/b755d184d33310f773a28fa8a9a9f2fe_MIT12_335F14_Wind_speed.jpg
 file_size: 42896
 file_type: image/jpeg
 image_metadata:

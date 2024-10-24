@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is the special file regarding CO measurements.
-file: /courses/12-335-experimental-atmospheric-chemistry-fall-2014/39b4a18a7ba3c65ab42b49d827fdc280_MIT12_335F14_CO_measurements.csv
+file: /ol-ocw-studio-app/courses/12-335-experimental-atmospheric-chemistry-fall-2014/39b4a18a7ba3c65ab42b49d827fdc280_MIT12_335F14_CO_measurements.csv
 file_size: 578102
 file_type: text/comma-separated-values
 learning_resource_types:
