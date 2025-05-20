@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to NOx time.
-file: /ol-ocw-studio-app/courses/12-335-experimental-atmospheric-chemistry-fall-2014/a6a51c61a6b4f0fc10bac86b412e17ff_MIT12_335F14_NOx_time.jpg
+file: /courses/12-335-experimental-atmospheric-chemistry-fall-2014/a6a51c61a6b4f0fc10bac86b412e17ff_MIT12_335F14_NOx_time.jpg
 file_size: 47656
 file_type: image/jpeg
 image_metadata:

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is the special file regarding CO2 CrossSection.
-file: /ol-ocw-studio-app/courses/12-335-experimental-atmospheric-chemistry-fall-2014/a783ed9bbd7bf40f0286714c5492cd93_MIT12_335F14_CO2_CrossSection.zip
+file: /courses/12-335-experimental-atmospheric-chemistry-fall-2014/a783ed9bbd7bf40f0286714c5492cd93_MIT12_335F14_CO2_CrossSection.zip
 file_size: 732457
 file_type: application/zip
 learning_resource_types:
