@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is the special file regarding Box model code.
-file: /ol-ocw-studio-app/courses/12-335-experimental-atmospheric-chemistry-fall-2014/1ceaa65e5cca5d0ba7ced0d107a10f5a_MIT12_335F14_Box_model_code.m
+file: /courses/12-335-experimental-atmospheric-chemistry-fall-2014/1ceaa65e5cca5d0ba7ced0d107a10f5a_MIT12_335F14_Box_model_code.m
 file_size: 3101
 file_type: text/x-objcsrc
 learning_resource_types:

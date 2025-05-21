@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is the special file regarding FTIR data.
-file: /ol-ocw-studio-app/courses/12-335-experimental-atmospheric-chemistry-fall-2014/4f4271b4141f28e627c9b181e0ebce5b_MIT12_335F14_FTIR_data.zip
+file: /courses/12-335-experimental-atmospheric-chemistry-fall-2014/4f4271b4141f28e627c9b181e0ebce5b_MIT12_335F14_FTIR_data.zip
 file_size: 1915154
 file_type: application/zip
 learning_resource_types:

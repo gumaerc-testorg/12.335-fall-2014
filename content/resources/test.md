@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: "This is the special file regarding MATLAB\xAE Overview."
-file: /ol-ocw-studio-app/courses/12-335-experimental-atmospheric-chemistry-fall-2014/f73733af5c325eac7988451ad5b48030_test.csv
+file: /courses/12-335-experimental-atmospheric-chemistry-fall-2014/f73733af5c325eac7988451ad5b48030_test.csv
 file_size: 209
 file_type: text/comma-separated-values
 learning_resource_types:

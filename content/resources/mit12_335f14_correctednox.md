@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is the special file regarding correctedNOx.
-file: /ol-ocw-studio-app/courses/12-335-experimental-atmospheric-chemistry-fall-2014/f02045ca1d95da10269955c255d9d2d2_MIT12_335F14_correctedNOx.txt
+file: /courses/12-335-experimental-atmospheric-chemistry-fall-2014/f02045ca1d95da10269955c255d9d2d2_MIT12_335F14_correctedNOx.txt
 file_size: 33830
 file_type: text/plain
 learning_resource_types:

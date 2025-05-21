@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains information regarding box model explanation.
-file: /ol-ocw-studio-app/courses/12-335-experimental-atmospheric-chemistry-fall-2014/07ff7953d0b011c109e5611426cb70d1_MIT12_335F14_Box_model.pdf
+file: /courses/12-335-experimental-atmospheric-chemistry-fall-2014/07ff7953d0b011c109e5611426cb70d1_MIT12_335F14_Box_model.pdf
 file_size: 277817
 file_type: application/pdf
 learning_resource_types:

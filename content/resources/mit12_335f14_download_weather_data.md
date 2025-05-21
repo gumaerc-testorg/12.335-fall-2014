@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is the special file regarding download weather data.
-file: /ol-ocw-studio-app/courses/12-335-experimental-atmospheric-chemistry-fall-2014/7dbceebc9aaf0880f3de1390d64f4ee0_MIT12_335F14_download_weather_data.m
+file: /courses/12-335-experimental-atmospheric-chemistry-fall-2014/7dbceebc9aaf0880f3de1390d64f4ee0_MIT12_335F14_download_weather_data.m
 file_size: 547
 file_type: text/x-objcsrc
 learning_resource_types:
