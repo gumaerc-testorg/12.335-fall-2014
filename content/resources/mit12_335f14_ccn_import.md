@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This is the special file regarding CCN import.
-file: /ol-ocw-studio-app/courses/12-335-experimental-atmospheric-chemistry-fall-2014/30f6f231e1bd1dc6f46dff032896f296_MIT12_335F14_CCN_import.zip
+file: /courses/12-335-experimental-atmospheric-chemistry-fall-2014/30f6f231e1bd1dc6f46dff032896f296_MIT12_335F14_CCN_import.zip
 file_size: 3009
 file_type: application/zip
 learning_resource_types:
