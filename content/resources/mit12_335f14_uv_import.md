@@ -1,11 +1,11 @@
 ---
 content_type: resource
 description: This is the special file regarding uv import.
-file: /courses/12-335-experimental-atmospheric-chemistry-fall-2014/61d4a791cf0ad4b3b5d63f29757086c7_MIT12_335F14_uv_import.m
+file: /ol-ocw-studio-app/courses/12-335-experimental-atmospheric-chemistry-fall-2014/61d4a791cf0ad4b3b5d63f29757086c7_MIT12_335F14_uv_import.m
 file_size: 551
 file_type: text/x-objcsrc
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Labs
