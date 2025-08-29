@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to temperature.
-file: /courses/12-335-experimental-atmospheric-chemistry-fall-2014/a5dafb10359c521d2fb681b3576316a1_MIT12_335F14_Temperature.jpg
+file: /ol-ocw-studio-app/courses/12-335-experimental-atmospheric-chemistry-fall-2014/a5dafb10359c521d2fb681b3576316a1_MIT12_335F14_Temperature.jpg
 file_size: 23260
 file_type: image/jpeg
 image_metadata:
@@ -9,7 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Labs

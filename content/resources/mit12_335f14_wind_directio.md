@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related to wind direction.
-file: /courses/12-335-experimental-atmospheric-chemistry-fall-2014/0f9c1ab564ec426cd7d05b6589335967_MIT12_335F14_Wind_directio.jpg
+file: /ol-ocw-studio-app/courses/12-335-experimental-atmospheric-chemistry-fall-2014/0f9c1ab564ec426cd7d05b6589335967_MIT12_335F14_Wind_directio.jpg
 file_size: 37900
 file_type: image/jpeg
 image_metadata:
@@ -9,7 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Labs
