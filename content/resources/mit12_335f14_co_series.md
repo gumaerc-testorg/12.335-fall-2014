@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains information related co series.
-file: /courses/12-335-experimental-atmospheric-chemistry-fall-2014/6d0f0f7482e1077e363515bc0070bef6_MIT12_335F14_CO_series.jpg
+file: /ol-ocw-studio-app/courses/12-335-experimental-atmospheric-chemistry-fall-2014/6d0f0f7482e1077e363515bc0070bef6_MIT12_335F14_CO_series.jpg
 file_size: 46524
 file_type: image/jpeg
 image_metadata:
@@ -9,7 +9,7 @@ image_metadata:
   credit: ''
   image-alt: ''
 learning_resource_types:
-- Labs
+- Laboratory Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Labs
